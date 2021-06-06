@@ -11115,7 +11115,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("https://cdn.discordapp.com/attachments/632379068867805228/850899401580085268/Wr8Nr42KrKj6vc4qJPeEilZ9mTsNA1YRTKs-xZZouohLYkv_G4eQZT_XE2rHttovhgO7tHUgqA95Cbl9i84gxYKNx0YzOByf9adm.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("https://cdn.discordapp.com/attachments/824459756193579066/839179143110459492/4e15a9e296c03c97c417335a2fbe8f93.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11194,7 +11194,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("bg-signup.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;

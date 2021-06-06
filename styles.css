@@ -11159,6 +11159,8 @@ body {
 
 .about-section {
   padding-top: 10rem;
+  background-size: cover;
+  background-position: center;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
   background-image: url("https://cdn.discordapp.com/attachments/850843866818281476/851002811343962122/1409299.jpg");
 }
